@@ -1,0 +1,15 @@
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.AllConstruct\bin\Debug\net6.0\DynamicProgramming.AllConstruct.exe
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.AllConstruct\bin\Debug\net6.0\DynamicProgramming.AllConstruct.deps.json
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.AllConstruct\bin\Debug\net6.0\DynamicProgramming.AllConstruct.runtimeconfig.json
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.AllConstruct\bin\Debug\net6.0\DynamicProgramming.AllConstruct.dll
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.AllConstruct\bin\Debug\net6.0\DynamicProgramming.AllConstruct.pdb
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.AllConstruct\obj\Debug\net6.0\DynamicProgramming.AllConstruct.csproj.AssemblyReference.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.AllConstruct\obj\Debug\net6.0\DynamicProgramming.AllConstruct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.AllConstruct\obj\Debug\net6.0\DynamicProgramming.AllConstruct.AssemblyInfoInputs.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.AllConstruct\obj\Debug\net6.0\DynamicProgramming.AllConstruct.AssemblyInfo.cs
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.AllConstruct\obj\Debug\net6.0\DynamicProgramming.AllConstruct.csproj.CoreCompileInputs.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.AllConstruct\obj\Debug\net6.0\DynamicProgramming.AllConstruct.dll
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.AllConstruct\obj\Debug\net6.0\refint\DynamicProgramming.AllConstruct.dll
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.AllConstruct\obj\Debug\net6.0\DynamicProgramming.AllConstruct.pdb
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.AllConstruct\obj\Debug\net6.0\DynamicProgramming.AllConstruct.genruntimeconfig.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.AllConstruct\obj\Debug\net6.0\ref\DynamicProgramming.AllConstruct.dll

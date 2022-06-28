@@ -1,0 +1,15 @@
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.BestSum\obj\Debug\net6.0\DynamicProgramming.BestSum.csproj.AssemblyReference.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.BestSum\obj\Debug\net6.0\DynamicProgramming.BestSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.BestSum\obj\Debug\net6.0\DynamicProgramming.BestSum.AssemblyInfoInputs.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.BestSum\obj\Debug\net6.0\DynamicProgramming.BestSum.AssemblyInfo.cs
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.BestSum\obj\Debug\net6.0\DynamicProgramming.BestSum.csproj.CoreCompileInputs.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.BestSum\bin\Debug\net6.0\DynamicProgramming.BestSum.exe
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.BestSum\bin\Debug\net6.0\DynamicProgramming.BestSum.deps.json
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.BestSum\bin\Debug\net6.0\DynamicProgramming.BestSum.runtimeconfig.json
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.BestSum\bin\Debug\net6.0\DynamicProgramming.BestSum.dll
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.BestSum\bin\Debug\net6.0\DynamicProgramming.BestSum.pdb
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.BestSum\obj\Debug\net6.0\DynamicProgramming.BestSum.dll
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.BestSum\obj\Debug\net6.0\refint\DynamicProgramming.BestSum.dll
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.BestSum\obj\Debug\net6.0\DynamicProgramming.BestSum.pdb
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.BestSum\obj\Debug\net6.0\DynamicProgramming.BestSum.genruntimeconfig.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.BestSum\obj\Debug\net6.0\ref\DynamicProgramming.BestSum.dll

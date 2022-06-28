@@ -1,0 +1,15 @@
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.GridTraveler\bin\Debug\net6.0\DynamicProgramming.GridTraveler.exe
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.GridTraveler\bin\Debug\net6.0\DynamicProgramming.GridTraveler.deps.json
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.GridTraveler\bin\Debug\net6.0\DynamicProgramming.GridTraveler.runtimeconfig.json
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.GridTraveler\bin\Debug\net6.0\DynamicProgramming.GridTraveler.dll
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.GridTraveler\bin\Debug\net6.0\DynamicProgramming.GridTraveler.pdb
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.GridTraveler\obj\Debug\net6.0\DynamicProgramming.GridTraveler.csproj.AssemblyReference.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.GridTraveler\obj\Debug\net6.0\DynamicProgramming.GridTraveler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.GridTraveler\obj\Debug\net6.0\DynamicProgramming.GridTraveler.AssemblyInfoInputs.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.GridTraveler\obj\Debug\net6.0\DynamicProgramming.GridTraveler.AssemblyInfo.cs
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.GridTraveler\obj\Debug\net6.0\DynamicProgramming.GridTraveler.csproj.CoreCompileInputs.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.GridTraveler\obj\Debug\net6.0\DynamicProgramming.GridTraveler.dll
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.GridTraveler\obj\Debug\net6.0\refint\DynamicProgramming.GridTraveler.dll
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.GridTraveler\obj\Debug\net6.0\DynamicProgramming.GridTraveler.pdb
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.GridTraveler\obj\Debug\net6.0\DynamicProgramming.GridTraveler.genruntimeconfig.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.GridTraveler\obj\Debug\net6.0\ref\DynamicProgramming.GridTraveler.dll

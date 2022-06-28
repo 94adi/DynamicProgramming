@@ -1,0 +1,15 @@
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.HowSUm\bin\Debug\net6.0\DynamicProgramming.HowSUm.exe
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.HowSUm\bin\Debug\net6.0\DynamicProgramming.HowSUm.deps.json
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.HowSUm\bin\Debug\net6.0\DynamicProgramming.HowSUm.runtimeconfig.json
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.HowSUm\bin\Debug\net6.0\DynamicProgramming.HowSUm.dll
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.HowSUm\bin\Debug\net6.0\DynamicProgramming.HowSUm.pdb
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.HowSUm\obj\Debug\net6.0\DynamicProgramming.HowSUm.csproj.AssemblyReference.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.HowSUm\obj\Debug\net6.0\DynamicProgramming.HowSUm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.HowSUm\obj\Debug\net6.0\DynamicProgramming.HowSUm.AssemblyInfoInputs.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.HowSUm\obj\Debug\net6.0\DynamicProgramming.HowSUm.AssemblyInfo.cs
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.HowSUm\obj\Debug\net6.0\DynamicProgramming.HowSUm.csproj.CoreCompileInputs.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.HowSUm\obj\Debug\net6.0\DynamicProgramming.HowSUm.dll
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.HowSUm\obj\Debug\net6.0\refint\DynamicProgramming.HowSUm.dll
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.HowSUm\obj\Debug\net6.0\DynamicProgramming.HowSUm.pdb
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.HowSUm\obj\Debug\net6.0\DynamicProgramming.HowSUm.genruntimeconfig.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.HowSUm\obj\Debug\net6.0\ref\DynamicProgramming.HowSUm.dll

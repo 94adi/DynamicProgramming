@@ -1,0 +1,15 @@
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.CanSum\bin\Debug\net6.0\DynamicProgramming.CanSum.exe
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.CanSum\bin\Debug\net6.0\DynamicProgramming.CanSum.deps.json
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.CanSum\bin\Debug\net6.0\DynamicProgramming.CanSum.runtimeconfig.json
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.CanSum\bin\Debug\net6.0\DynamicProgramming.CanSum.dll
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.CanSum\bin\Debug\net6.0\DynamicProgramming.CanSum.pdb
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.CanSum\obj\Debug\net6.0\DynamicProgramming.CanSum.csproj.AssemblyReference.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.CanSum\obj\Debug\net6.0\DynamicProgramming.CanSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.CanSum\obj\Debug\net6.0\DynamicProgramming.CanSum.AssemblyInfoInputs.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.CanSum\obj\Debug\net6.0\DynamicProgramming.CanSum.AssemblyInfo.cs
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.CanSum\obj\Debug\net6.0\DynamicProgramming.CanSum.csproj.CoreCompileInputs.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.CanSum\obj\Debug\net6.0\DynamicProgramming.CanSum.dll
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.CanSum\obj\Debug\net6.0\refint\DynamicProgramming.CanSum.dll
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.CanSum\obj\Debug\net6.0\DynamicProgramming.CanSum.pdb
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.CanSum\obj\Debug\net6.0\DynamicProgramming.CanSum.genruntimeconfig.cache
+D:\Projects\AlgorithmsCpp\DynamicProgramming\DynamicProgramming\DynamicProgramming.CanSum\obj\Debug\net6.0\ref\DynamicProgramming.CanSum.dll
